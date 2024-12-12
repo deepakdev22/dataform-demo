@@ -1,0 +1,5 @@
+defaultProject: digital-strata-435409-h4
+defaultLocation: asia-southeast2
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
